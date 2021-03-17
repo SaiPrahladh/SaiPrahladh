@@ -1,6 +1,5 @@
 ### Hi there 👋
 ## Haaave you met Sai?
-👋 # Hello there
 
 🧑‍🎓 I am a final year ECE Master's student at CMU with my interests in AI, ML, DL and CV!!
 
