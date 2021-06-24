@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Haaave you met Sai?
 
-🧑‍🎓 I am a final year ECE Master's student at CMU with my interests in AI, ML, DL and CV!!
+🧑‍🎓 I am an ECE Master's Graduate from CMU with my interests in AI, ML, DL and CV!!
 
 💬 Always up for a conversation on deep learning and discuss 🌝 moonshot projects, 'cos why not?
 
